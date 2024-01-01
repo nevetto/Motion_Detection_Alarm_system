@@ -1,5 +1,7 @@
 # Building Motion Detection Alarm System with Raspberry Pi
-For Alarm system two library is needed, which are:
+The objective of this project is to detect if is there is an intruder or not, if  motion is sensed raise an alarm. The system can be set to armed and unarmed  state. 
+
+For the Alarm system two libraries are needed, which are:
 . LCD1602 (Library for 12C connection of the LCD1602 to the raspberry pi). the file is safe as LCD1602.py.
 . KPLIB (Library for reading a 16 button keypad on the raspberry pi). the fie is safe as KPLIB.py.
 
